@@ -18,5 +18,4 @@ public class ContactController {
         return new Contact(id,"Test Firstname","Test Lastname");
     }
 
-
 }
